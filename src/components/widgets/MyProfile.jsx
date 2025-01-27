@@ -1,3 +1,4 @@
+import React from 'react';
 import MyProfileImage from "../shared/MyProfileImage";
 import TechSkills from "../shared/TechSkills";
 

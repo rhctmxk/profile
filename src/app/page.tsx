@@ -1,3 +1,5 @@
+import React from 'react';
+
 import Intro from "@/components/widgets/Intro";
 import Links from "@/components/widgets/Links";
 import MyProfile from "@/components/widgets/MyProfile";

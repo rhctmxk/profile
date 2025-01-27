@@ -1,3 +1,5 @@
+import React from 'react';
+
 const Intro = () => {
     return (
         <div className="text-start my-10">
