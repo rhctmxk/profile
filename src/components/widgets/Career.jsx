@@ -1,7 +1,6 @@
 const Career = () => {
     return(
         <>
-
         </>
     )
 }
